@@ -1,0 +1,63 @@
+Project Title: IIITB Gate Monitor                                                                         Project Number: SEPRO1026
+
+Project Leader: Manideep Nizam                                                                            Anticipated Start Date: 3rd of September, 2018
+
+Date Prepared: 23rd of August, 2018                                                                       Anticipated Completion Date: 30 th October,2018
+
+Sponsor: IIITB                                                                                            Project Risk Level: Low
+
+
+
+
+
+Team Members: Manideep,Aravind,Krishna
+
+
+
+Purpose of Project:   
+                        
+	Details of student/staff who Enters/Exits the college. 
+			
+
+	Students movement during curfew timings. 				
+	Details of guests who visits the campus	
+
+			  		
+Background:		
+			
+	By using physical books it is too hard to know the statistics of people(who are in campus from time to time).
+			
+	By using physical books it is difficult to notice the movement of students durin gcurfew timings.  
+			
+			
+
+
+
+Deliverables:
+		        
+	Data of every entry and exit from the campus.
+			
+	Every students record of number of curfew violations
+		        
+	Statistics and an exact number of people inside the college.
+
+
+
+
+Stakeholders:
+                       
+	Students
+                       
+	Staff
+                       
+	Guests
+
+
+Resource requirements:
+ 			
+	ID cards for students/staff with Barcodes.
+			
+	Guest tokens for guests.
+			
+	Data base to store data.
+
